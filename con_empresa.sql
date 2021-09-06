@@ -1,0 +1,1 @@
+select id_puesto as id,puesto  from puestos;
